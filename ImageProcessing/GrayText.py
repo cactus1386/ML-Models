@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread('./media/House.jpg')
+img = cv2.imread('./media/image/House.jpg')
 
 img = cv2.resize(img, (500, 500))
 
